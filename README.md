@@ -16,3 +16,4 @@ A collection of all websites created by S&amp;S Technologies GmbH.
   - in progress
 * https://www.sus-agency.com
   - in progress
+* https://www.drschuster.at/
